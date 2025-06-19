@@ -7,12 +7,12 @@
 <table>
 <tr>
   <td align="center">
-    <img src="" width="120px" height="120px"/><br/>
-    <a href=""></a>
+    <img src="https://github.com/kxmmxnzx.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/kxmmxnzx">김민지</a>
   </td>
   <td align="center">
-    <img src="" width="120px" height="120px"/><br/>
-    <a href=""></a>
+    <img src="https://github.com/PMtHk.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/PMtHk">나주엽</a>
   </td>
   <td align="center">
     <img src="https://github.com/daejlee.png?size=100" width="120px" height="120px"/><br/>
@@ -21,22 +21,22 @@
 </tr>
 <tr>
   <td align="center">
-    <img src="" width="120px" height="120px"/><br/>
-    <a href=""></a>
+    <img src="https://github.com/junghyunl.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/junghyunl">이정현</a>
   </td>
   <td align="center">
-    <img src="" width="120px" height="120px"/><br/>
-    <a href=""></a>
+    <img src="https://github.com/adultlee.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/adultlee">이성인</a>
   </td>
   <td align="center">
-    <img src="" width="120px" height="120px"/><br/>
-    <a href=""></a>
+    <img src="https://github.com/Honghyeonji.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/Honghyeonji">홍현지</a>
   </td>
 </tr>
 <tr>
   <td align="center">
-    <img src="" width="120px" height="120px"/><br/>
-    <a href=""></a>
+    <img src="https://github.com/milkbottle0305.png?size=100" width="120px" height="120px"/><br/>
+    <a href="https://github.com/milkbottle0305">유병우</a>
   </td>
 </tr>
 </table>
@@ -53,6 +53,7 @@
 ## 🥊 스터디 전 준비 사항
 
 - 회차 폴더 안에 {이름}.md 파일에 공유할 내용을 정리합니다.
+  - PR을 통해 올려주세요.
   - 질문 혹은 토론 주제는 환영입니다.
   - 모든걸 적으려 하기보단, 중요하다고 생각하는 내용 위주로 적어요.
 
@@ -76,10 +77,10 @@
 | ---- | --------- | ----------------------------------------------------  | -------------- | ----------- |
 | 1    | 6/19      | 킥오프      |       |             |
 | 2    |           | 1. 리액트 훅을 이용한 마이크로 상태 관리 | 이대진 |             |
-| 3    |           | 2. 지역 상태와 전역 상태 사용하기 ~ 3. 리액트 컨텍스트를 이용한 컴포넌트 상태 공유 | 이성인 |             |
-| 4    |           | 4. 구독을 이용한 모듈 상태 공유 ~ 5. 리액트 컨텍스트와 구독을 이용한 컴포넌트 상태 공유 | 홍현지 |             |
-| 5    |           | 6. 전역 상태 관리 라이브러리 소개 ~ 7. 사용 사례 시나리오 1: Zustand | 이정현 |             |
+| 3    |           | 2. 지역 상태와 전역 상태 사용하기 ~<br>3. 리액트 컨텍스트를 이용한 컴포넌트 상태 공유 | 이성인 |             |
+| 4    |           | 4. 구독을 이용한 모듈 상태 공유 ~<br>5. 리액트 컨텍스트와 구독을 이용한 컴포넌트 상태 공유 | 홍현지 |             |
+| 5    |           | 6. 전역 상태 관리 라이브러리 소개 ~<br>7. 사용 사례 시나리오 1: Zustand | 이정현 |             |
 | 6    |           | 8. 사용 사례 시나리오 2: Jotai | 김민지 |             |
-| 7    |           | 9. 사용 사례 시나리오 3: Valtio ~ 10. 사용 사례 시나리오 4: React Tracked | 나주엽 |             |
+| 7    |           | 9. 사용 사례 시나리오 3: Valtio ~<br>10. 사용 사례 시나리오 4: React Tracked | 나주엽 |             |
 | 8    |           | 11. 세 가지 전역 상태 라이브러리의 유사점과 차이점 | 유병우 |             |
 
